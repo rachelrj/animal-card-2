@@ -1,0 +1,13 @@
+img {
+	width: 300px;
+}
+#card {
+	width: 320px;
+	border: 2px solid black;
+}
+h1, p, ul, img {
+	margin-left: 10px;
+}
+.italics {
+	font-style: italic;
+}
